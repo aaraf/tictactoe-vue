@@ -1,4 +1,4 @@
-# calculator
+# TicTacToe
 
 > A Vue.js project
 
